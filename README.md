@@ -1,8 +1,5 @@
 # SeminarskiKG - Professional Academic Work Service
 
-## LIVE PREVIEW
-
-https://aleksandarm03.github.io/kgseminarski/
 ## Project Overview
 SeminarskiKG is a professional website offering academic writing services including seminar papers, graduation theses, and other educational assistance.
 
